@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Regex.iml" filepath="$PROJECT_DIR$/Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegexDuplicateWords.iml" filepath="$PROJECT_DIR$/RegexDuplicateWords.iml" />
     </modules>
   </component>
 </project>
